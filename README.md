@@ -1,4 +1,4 @@
-**#  ClearDrive-AI
+** #  ClearDrive-AI
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
