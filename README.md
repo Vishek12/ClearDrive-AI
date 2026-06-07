@@ -110,17 +110,6 @@ Models can be regenerated using the training notebooks included in this reposito
 - Larger dataset for better generalization  
 - Integration into driver monitoring systems  
 
----
-
-##  Repository Structure
-ClearDrive-AI/
-│
-├── notebooks/ # EDA + training
-├── src/ # Core pipeline
-├── app/ # Web interface (optional)
-├── data/ # Dataset (excluded if large)
-├── models/ # Ignored large files
-└── README.md
 
 
 ---
