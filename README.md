@@ -33,20 +33,20 @@ To explore how computer vision and machine learning can be applied to road safet
                      ↓
         ┌───────────────────────────┐
         │  OpenCV Preprocessing     │
-        │  - Resize                │
-        │  - Normalization        │
-        │  - Noise Reduction      │
+        │  - Resize                 │
+        │  - Normalization          │
+        │  - Noise Reduction        │
         └────────┬──────────────────┘
                      ↓
         ┌───────────────────────────┐
         │ Feature Extraction        │
-        │ - Facial/visual cues     │
-        │ - Pixel-based features   │
+        │ - Facial/visual cues      │
+        │ - Pixel-based features    │
         └────────┬──────────────────┘
                      ↓
         ┌───────────────────────────┐
         │ ML Classification Model   │
-        │ - Sober vs Impaired      │
+        │ - Sober vs Impaired       │
         └────────┬──────────────────┘
                      ↓
         ┌───────────────────────────┐
